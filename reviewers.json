@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "groupName": "frontend reviewers",
+      "reviewers": [
+        "ryan.lee",
+        "dario.novoa",
+        "jeff.guentert",
+        "aaron.hans",
+        "peik.sia",
+        "rachel.colby",
+        "jasmine.singh",
+        "connor.kojimoto",
+        "helena.kwan",
+        "anamaria.ungureanu",
+        "hai.phan",
+        "fvezzoso",
+        "sui.mak"
+      ]
+    },
+    {
+      "groupName": "backend reviewers",
+      "reviewers": []
+    }
+  ]
+}
