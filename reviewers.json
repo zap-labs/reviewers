@@ -24,6 +24,10 @@
     },
     {
       "groupName": "backend reviewers",
+      "reviewers": []
+    },
+    {
+      "groupName": "drupal reviewers",
       "reviewers": [
         "ibustos",
 	"mdagostino",
