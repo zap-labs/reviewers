@@ -30,9 +30,15 @@
       "groupName": "drupal reviewers",
       "reviewers": [
         "ibustos",
-	"mdagostino",
-	"dgil"
+        "mdagostino",
+        "dgil",
+        "ryan.lee",
+        "dario.novoa",
+        "jeff.guentert",
+        "aaron.hans",
+        "fvezzoso"
       ]
     }
   ]
 }
+
