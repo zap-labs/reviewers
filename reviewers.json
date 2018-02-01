@@ -30,7 +30,8 @@
         "lemunoz",
         "jcampos",
         "tony.liu",
-        "renee.gallison"
+        "renee.gallison",
+        "cguzman"
       ]
     },
     {
@@ -41,7 +42,6 @@
       "groupName": "drupal reviewers",
       "reviewers": [
         "ibustos",
-        "mdagostino",
         "dgil",
         "ryan.lee",
         "dario.novoa",
