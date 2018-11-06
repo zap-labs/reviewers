@@ -14,56 +14,24 @@
         "hai.phan",
         "fvezzoso",
         "sui.mak",
-        "emagallon",
-        "jesushernandez",
         "dgil",
         "chung.kim",
-        "agarcia",
-        "lportanel",
-        "apantoja",
-        "alex.hill",
-        "josiah.rooney",
         "kwalls",
-        "rpenna",
-        "asheti",
-        "lemunoz",
-        "jcampos",
         "tony.liu",
         "renee.gallison",
-        "cguzman",
         "lspinhoza",
-        "hsegundo",
         "lgiovanetti",
-        "ttello",
-        "msanchez",
-        "agosset",
-        "bade.adebayo",
-        "ryan.barett",
-        "nick.bullard",
-        "vlohakare",
-        "mdimble",
-        "rmoreno",
-        "mvelez",
-        "smoreno",
-        "ubarrientos"
+        "bade.adebayo"
       ]
-    },
-    {
-      "groupName": "backend reviewers",
-      "reviewers": []
     },
     {
       "groupName": "drupal reviewers",
       "reviewers": [
-        "ibustos",
         "dgil",
-        "ryan.lee",
         "dario.novoa",
         "jeff.guentert",
         "aaron.hans",
-        "fvezzoso",
-        "amoncada",
-        "msantamaria"
+        "fvezzoso"
       ]
     }
   ]
