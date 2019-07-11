@@ -3,36 +3,31 @@
     {
       "groupName": "frontend reviewers",
       "reviewers": [
-        "dario.novoa",
         "jeff.guentert",
         "aaron.hans",
-        "peik.sia",
-        "rachel.colby",
-        "connor.kojimoto",
-        "helena.kwan",
         "ana-maria.ungureanu",
-        "hai.phan",
         "fvezzoso",
-        "sui.mak",
-        "dgil",
         "chung.kim",
-        "kwalls",
-        "tony.liu",
-        "renee.gallison",
         "lspinhoza",
-        "lgiovanetti",
-        "bade.adebayo",
-        "ryan.barrett"
+        "hsegundo",
+        "miguel.soriano",
+        "jorge.diaz",
+        "diego.bergstein",
+        "cesar.jimenez"
       ]
-    },
-    {
-      "groupName": "drupal reviewers",
+    }, {
+      "groupName": "backend reviewers",
       "reviewers": [
-        "dgil",
-        "dario.novoa",
-        "jeff.guentert",
-        "aaron.hans",
-        "fvezzoso"
+        "lcontreras",
+        "raghavendran.vijendran"
+        "aditi.sen",
+        "raymond.ho",
+        "lois.ho",
+        "alvaro.guerrero",
+        "graciela.ocampo",
+        "marcos.viera",
+        "fvezzoso",
+        "alejandro.carballo"
       ]
     }
   ]
