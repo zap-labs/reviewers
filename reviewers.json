@@ -3,56 +3,19 @@
     {
       "groupName": "Front-end Reviewers",
       "reviewers": [
-        "jeff.guentert",
-        "fvezzoso",
-        "chung.kim",
-        "lspinhoza",
-        "hsegundo",
-        "miguel.soriano",
-        "jorge.diaz",
-        "diego.bergstein",
-        "cesar.jimenez",
-        "mrunal.kamat",
-        "indrajit.bhaskaran",
-        "rajsekhar.budharam",
-        "mariana.moreno"
+        "jeff.guentert"
       ]
     }, {
       "groupName": "Back-end Reviewers",
       "reviewers": [
-        "lcontreras",
-        "raghavendran.vijendran",
-        "aditi.sen",
-        "raymond.ho",
-        "lois.ho",
-        "dgarg",
-        "echeng",
-        "alvaro.guerrero",
-        "graciela.ocampo",
-        "marcos.viera",
-        "fvezzoso",
-        "alejandro.carballo"
+        "aditi.sen"
       ]
     }, {
       "groupName": "Cypress.io reviewers",
       "reviewers": [
         "jeff.guentert",
-        "fvezzoso",
-        "chung.kim",
-        "lspinhoza",
-        "hsegundo",
-        "miguel.soriano",
-        "jorge.diaz",
-        "diego.bergstein",
-        "cesar.jimenez",
-        "mrunal.kamat",
-        "indrajit.bhaskaran",
-        "rajsekhar.budharam",
-        "mariana.moreno",
         "cspangler",
-        "arodina",
-        "klee",
-        "daespinosa"
+        "arodina"
       ]
     }
   ]
